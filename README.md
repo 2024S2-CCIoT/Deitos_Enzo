@@ -5,7 +5,7 @@
 ## Nome:Enzo.V.Dei Tós
 ## Email:enzodeitos885@gmail.com
 
-Claro! Aqui está um plano de desenvolvimento para o trabalho sobre "Blockchain para Segurança e Confiança em Redes IoT Industriais Baseadas na Nuvem". Este plano inclui as principais etapas e datas para cada item da estrutura do trabalho:
+
 
 ### Plano de Desenvolvimento do Trabalho
 
