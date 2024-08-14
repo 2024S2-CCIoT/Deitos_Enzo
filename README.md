@@ -45,9 +45,4 @@
    - **Descrição**: Preparação e submissão do trabalho final.
    - **Data de Desenvolvimento**: 25 de novembro de 2024
 
-### Dicas Adicionais
-- **Organização**: Mantenha um cronograma detalhado e siga-o rigorosamente para garantir que todas as etapas sejam concluídas a tempo.
-- **Referências**: Certifique-se de citar todas as fontes utilizadas corretamente.
-- **Feedback**: Considere pedir feedback de colegas ou orientadores durante o processo de desenvolvimento.
-
 
