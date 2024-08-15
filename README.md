@@ -45,7 +45,8 @@
    - **Descrição**: Preparação e submissão do trabalho final.
    - **Data de Desenvolvimento**: 25 de novembro de 2024
 <br>
-**Aplicações do Blockchain em IIoT**
+
+*Aplicações do Blockchain em IIoT*
 
 * **Gerenciamento de Identidade e Acesso:** O blockchain permite a criação de identidades digitais únicas e imutáveis para dispositivos e usuários, dificultando a falsificação e o acesso não autorizado.
 * **Autenticidade de Dados:** Ao registrar cada transação de dados em um bloco imutável, o blockchain garante a integridade e a rastreabilidade dos dados, evitando a manipulação e a adulteração.
