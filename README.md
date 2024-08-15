@@ -44,5 +44,22 @@
 #### 9. **Entrega Final**
    - **Descrição**: Preparação e submissão do trabalho final.
    - **Data de Desenvolvimento**: 25 de novembro de 2024
+<br>
+**Aplicações do Blockchain em IIoT**
+
+* **Gerenciamento de Identidade e Acesso:** O blockchain permite a criação de identidades digitais únicas e imutáveis para dispositivos e usuários, dificultando a falsificação e o acesso não autorizado.
+* **Autenticidade de Dados:** Ao registrar cada transação de dados em um bloco imutável, o blockchain garante a integridade e a rastreabilidade dos dados, evitando a manipulação e a adulteração.
+* **Cadeia de Custódia:** O blockchain pode rastrear a origem e o histórico de cada componente ou produto ao longo de toda a cadeia de suprimentos, aumentando a transparência e a confiança.
+* **Contratos Inteligentes:** A automação de processos através de contratos inteligentes baseados em blockchain pode reduzir o risco de erros humanos e otimizar a execução de acordos.
+* **Consenso Distribuído:** O consenso distribuído do blockchain garante que todos os nós da rede concordem sobre o estado atual da rede, tornando o sistema mais resistente a ataques.
+
+**Benefícios do Blockchain para IIoT**
+
+* **Segurança Aprimorada:** A descentralização e a imutabilidade do blockchain dificultam a invasão e a manipulação de dados.
+* **Transparência:** Todas as transações são registradas de forma transparente e audível, aumentando a confiança entre os participantes.
+* **Rastreabilidade:** A cadeia de custódia permite rastrear a origem e o histórico de cada componente ou produto.
+* **Resiliência:** A rede blockchain é altamente resistente a falhas, pois não depende de um único ponto de falha.
+* **Automatização:** Os contratos inteligentes podem automatizar processos e reduzir a necessidade de intervenção humana.
+
 
 
