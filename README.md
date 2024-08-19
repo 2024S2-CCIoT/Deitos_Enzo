@@ -62,6 +62,25 @@
 * **Rastreabilidade:** A cadeia de custódia permite rastrear a origem e o histórico de cada componente ou produto.
 * **Resiliência:** A rede blockchain é altamente resistente a falhas, pois não depende de um único ponto de falha.
 * **Automatização:** Os contratos inteligentes podem automatizar processos e reduzir a necessidade de intervenção humana.
+<br>
+  "Desde que os automóveis se tornaram softwares sob quatro rodas, os carros se tornaram produtos digitais: conectados na nuvem, recebem updates automáticos, ganham novas funcionalidades e, às vezes, até valorizam.
 
+Como todo software, também coletam uma infinidade de dados do usuário. A GM, sabendo do valor dos dados, aproveitou para transformá-los em receita - e agora, em processo judicial.
+
+Segundo um acusação, desde 2015 a GM têm vendido os dados de +16 milhões de carros, sem autorização, para corretoras e seguradoras, incluindo:
+
+quando os motoristas se sentaram ao volante;
+
+a que velocidade dirigiam;
+
+se usavam os cintos de segurança,
+
+a distância percorrida na corrida;
+
+por quanto tempo o motor permaneceu ligado e muito, muito mais.
+
+Aparentemente a GM não está sozinha. Segundo o NYT, as corretoras de dados de automóveis, como a Verisk, LexisLexis, Wejo e Jacobs Engineer Group, possuem acordos semelhantes com montadoras como Honda, Hyunday, Kia, Mitsubishi, Ford e Nissan - que pagam de .25 à .61 por carro.
+
+Ps1: a GM anunciou o investimento de R$7bi em suas fábricas de dados carros no Brasil até 2028."
 
 
