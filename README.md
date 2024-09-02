@@ -83,4 +83,9 @@ Aparentemente a GM não está sozinha. Segundo o NYT, as corretoras de dados de 
 
 Ps1: a GM anunciou o investimento de R$7bi em suas fábricas de dados carros no Brasil até 2028."
 
+<br>
+DisTrO é um projeto em desenvolvimento para otimização de comunicação entre GPUs focado na descentralização do treinamento de LLMs, similar aos estilos de P2P ou Blockchain, para reduzir gasto elétrico e emissão de CO2
+
+https://github.com/NousResearch/DisTrO/blob/main/A_Preliminary_Report_on_DisTrO.pdf?utm_source=www.aidrop.news&utm_medium=newsletter&utm_campaign=o-chip-mais-rapido-do-mundo&_bhlid=4b77f0aa37fa3bdf2804ddfdd5b69692de43f6a0
+
 
