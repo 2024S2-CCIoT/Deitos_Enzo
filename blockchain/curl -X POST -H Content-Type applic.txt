@@ -1,0 +1,5 @@
+curl -X POST -H "Content-Type: application/json" -d "{\"seller_name\": \"Aliso\", \"seller_id\": \"12345678991\", \"buyer_name\": \"Mauro\", \"buyer_id\": \"98765432189\", \"amount\": 10}" http://127.0.0.1:5000/transaction
+
+http://127.0.0.1:5000/chain
+
+pip install flask flask-restful
